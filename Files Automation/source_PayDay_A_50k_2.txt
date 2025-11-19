@@ -1,0 +1,12 @@
+date_created|Concept|movement_number|reference|amount
+5/5/2022|Cobro Impuesto a la industria y comercio|856647033|152193931|13425841.13
+13/06/2022|Costo de PayDay|840096837|153309770|978228.61
+12/3/2022|Costo de PayDay|855474273|143756557|13971554.69
+30/04/2022|Retención de PayDay|855632102|154733101|2637110.77
+26/01/2022|Retención|855168590|143449156|7739680.56
+13/02/2022|Retención de PayDay|840555457|144035871|12859997.66
+11/2/2022|Retención Impuesto a la industria y comercio|841503442|144808907|12236924.88
+28/03/2022|Retención Impuesto a la industria y comercio|878930623|146087082|8756367.62
+17/05/2022|Retención Impuesto al Valor Agregado|883786509|150748867|338589
+29/07/2022|Retención Impuesto al Valor Agregado|841457180|144672843|6440181.31
+28/06/2022|Retención Impuesto al Valor Agregado|885209209|144680568|2891405.14
